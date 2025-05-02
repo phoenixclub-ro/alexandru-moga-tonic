@@ -1,4 +1,5 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# lavander-theme
